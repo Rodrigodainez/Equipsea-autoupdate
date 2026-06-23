@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "82312f7088f12ccb53bbf32ed7c7ce1bacbb1390007d67b7e9a775b19f27ea1b",
+    "nome": "Administrador",
+    "role": "admin"
+  },
+  {
+    "username": "r.diniz",
+    "password_hash": "f28c05fa146ff4e9461e86c9c059623cd4114dfa46284143f3532dbfe5ecf325",
+    "nome": "Rodrigo Diniz",
+    "role": "admin"
+  }
+]
